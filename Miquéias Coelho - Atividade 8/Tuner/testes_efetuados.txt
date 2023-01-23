@@ -1,0 +1,35 @@
+acordes
+(teste de uma vez para cada acordes)
+
+Dó-ok (formato aberto)
+Ré-ok (formato aberto)
+Mi-não ok (formato aberto)
+Fá-ok (formato sem pestana)
+Sol-ok (formato com pestana casa 3)
+Lá-ok (formato aberto)
+Si-não ok (formato com pestana - casa 7)
+
+Violão usado: Michael VM16BK cordas de nylon
+microfone do fone de ouvido, colocado a aproximadamente 40 centímetros da boca do violão
+
+afinador
+Testes feitos apenas para a quarta oitava, porém, funciona para outras oitavas
+Dó - ok
+Ré - ok
+Mi-ok
+Fá-ok
+Sol-ok
+Lá - ok
+
+Dó#/Réb - ok
+Ré#/Mib - ok
+Fá#/Solb - ok
+Sol#/Láb - ok
+Lá#/Sib - ok
+
+App para teste: frequency geranator (disponível na playstore)
+Celular ligado via bluetooth em caixa de som T&G, colocada a aproximadamente 40 centímetros do microfone do computador.
+
+
+
+
